@@ -1,3 +1,6 @@
+live site link:https://musicnest.pythonanywhere.com/
+
+
 # MyPlaylistApp 🎵
 
 This is a simple Django web application built as an academic assignment. It allows administrators to create and manage music or video playlists (including cover images) from the Django Admin panel, and allows users to browse playlists and view detailed information about each playlist.
